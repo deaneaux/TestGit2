@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         
         // Changing file to test branch1
+        // Second change made from Android Studio
     }
 }
